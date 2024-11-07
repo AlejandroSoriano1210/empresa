@@ -1,7 +1,5 @@
 <?php
 
-require 'Modelo.php';
-
 namespace App\Tablas;
 
 use DateTime;
